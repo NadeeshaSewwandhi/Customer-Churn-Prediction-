@@ -17,7 +17,7 @@ Features
 4. Provides model evaluation using cross-validation, accuracy, confusion matrix, and classification reports
 5. Saves trained models and encoders for future predictions
 
-🛠️ Technologies Used
+Technologies Used
 
 1. Programming Language: Python 3.11
 2. Libraries: Pandas, NumPy, scikit-learn, imbalanced-learn (SMOTE), XGBoost, Matplotlib, Seaborn
